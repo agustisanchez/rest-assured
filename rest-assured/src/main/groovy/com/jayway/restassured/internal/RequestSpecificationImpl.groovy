@@ -94,6 +94,7 @@ class RequestSpecificationImpl implements FilterableRequestSpecification, Groovy
   private Object requestBody;
   private List<Filter> filters = [];
   private boolean urlEncodingEnabled
+  private boolean excludeContentType = false;
   private RestAssuredConfig restAssuredConfig;
   private List<MultiPartInternal> multiParts = [];
   private ParameterAppender parameterAppender = new ParameterAppender(new ParameterAppender.Serializer() {
@@ -436,6 +437,11 @@ class RequestSpecificationImpl implements FilterableRequestSpecification, Groovy
 
   def RequestSpecification urlEncodingEnabled(boolean isEnabled) {
     this.urlEncodingEnabled = isEnabled
+    return this
+  }
+
+  def RequestSpecification excludeContentType(boolean isExcluded) {
+    this.excludeContentType = isExcluded
     return this
   }
 
@@ -1406,9 +1412,11 @@ class RequestSpecificationImpl implements FilterableRequestSpecification, Groovy
       header(ACCEPT_HEADER_NAME, ANY.getAcceptHeader())
     }
 
-    def tempContentType = defineRequestContentTypeAsString(method)
-    if (tempContentType != null) {
-      header(CONTENT_TYPE, tempContentType)
+    if (!excludeContentType) {
+      def tempContentType = defineRequestContentTypeAsString(method)
+      if (tempContentType != null) {
+        header(CONTENT_TYPE, tempContentType)
+      }
     }
 
     invokeFilterChain(path, method, responseSpecification.assertionClosure)

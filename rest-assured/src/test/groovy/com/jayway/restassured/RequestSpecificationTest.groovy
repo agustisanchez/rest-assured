@@ -33,6 +33,7 @@ import static java.util.Arrays.asList
 import static org.hamcrest.Matchers.equalTo
 import static org.hamcrest.Matchers.instanceOf
 import static org.junit.Assert.assertEquals
+import static org.junit.Assert.assertNull
 import static org.junit.Assert.assertThat
 
 class RequestSpecificationTest {
@@ -86,6 +87,13 @@ class RequestSpecificationTest {
       def requestSpec = given().headers(headerMap)
 
       assertEquals(CONTENT_TYPE_TEST_VALUE, requestSpec.requestHeaders.get(CONTENT_TYPE).getValue())
+  }
+
+  @Test
+  public void contentTypeExcluded() {
+    def requestSpec = given().excludeContentType(true);
+
+    assertNull(requestSpec.requestHeaders.get(CONTENT_TYPE))
   }
 
   @Ignore

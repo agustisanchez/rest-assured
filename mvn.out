@@ -1,0 +1,1573 @@
+[INFO] Scanning for projects...
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.jayway.restassured:json-schema-validator:jar:2.4.1-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ com.jayway.restassured:rest-assured-parent:2.4.1-SNAPSHOT, /var/opt/workspaces/workspace-restassured/rest-assured/pom.xml, line 130, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.jayway.restassured:rest-assured-parent:2.4.1-SNAPSHOT, /var/opt/workspaces/workspace-restassured/rest-assured/pom.xml, line 148, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.jayway.restassured:spring-mock-mvc:jar:2.4.1-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ com.jayway.restassured:rest-assured-parent:2.4.1-SNAPSHOT, /var/opt/workspaces/workspace-restassured/rest-assured/pom.xml, line 130, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.jayway.restassured:rest-assured-parent:2.4.1-SNAPSHOT, /var/opt/workspaces/workspace-restassured/rest-assured/pom.xml, line 148, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.jayway.restassured:modules:pom:2.4.1-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ com.jayway.restassured:rest-assured-parent:2.4.1-SNAPSHOT, /var/opt/workspaces/workspace-restassured/rest-assured/pom.xml, line 130, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.jayway.restassured:rest-assured-parent:2.4.1-SNAPSHOT, /var/opt/workspaces/workspace-restassured/rest-assured/pom.xml, line 148, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.jayway.restassured:rest-assured:jar:2.4.1-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ com.jayway.restassured:rest-assured-parent:2.4.1-SNAPSHOT, /var/opt/workspaces/workspace-restassured/rest-assured/pom.xml, line 130, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.jayway.restassured:rest-assured-parent:2.4.1-SNAPSHOT, /var/opt/workspaces/workspace-restassured/rest-assured/pom.xml, line 148, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.jayway.restassured.examples:scalatra-example:jar:2.4.1-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ com.jayway.restassured:rest-assured-parent:2.4.1-SNAPSHOT, /var/opt/workspaces/workspace-restassured/rest-assured/pom.xml, line 130, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.jayway.restassured:rest-assured-parent:2.4.1-SNAPSHOT, /var/opt/workspaces/workspace-restassured/rest-assured/pom.xml, line 148, column 21
+[WARNING] 'build.plugins.plugin.version' for org.scala-tools:maven-scala-plugin is missing. @ com.jayway.restassured.examples:scalatra-example:[unknown-version], /var/opt/workspaces/workspace-restassured/rest-assured/examples/scalatra-example/pom.xml, line 40, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.jayway.restassured.examples:scalatra-webapp:war:2.4.1-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ com.jayway.restassured:rest-assured-parent:2.4.1-SNAPSHOT, /var/opt/workspaces/workspace-restassured/rest-assured/pom.xml, line 130, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.jayway.restassured:rest-assured-parent:2.4.1-SNAPSHOT, /var/opt/workspaces/workspace-restassured/rest-assured/pom.xml, line 148, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.jayway.restassured.examples:rest-assured-itest-java:jar:2.4.1-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ com.jayway.restassured:rest-assured-parent:2.4.1-SNAPSHOT, /var/opt/workspaces/workspace-restassured/rest-assured/pom.xml, line 130, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.jayway.restassured:rest-assured-parent:2.4.1-SNAPSHOT, /var/opt/workspaces/workspace-restassured/rest-assured/pom.xml, line 148, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.jayway.restassured.examples:spring-mvc-webapp:war:2.4.1-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ com.jayway.restassured:rest-assured-parent:2.4.1-SNAPSHOT, /var/opt/workspaces/workspace-restassured/rest-assured/pom.xml, line 130, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.jayway.restassured:rest-assured-parent:2.4.1-SNAPSHOT, /var/opt/workspaces/workspace-restassured/rest-assured/pom.xml, line 148, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.jayway.restassured.examples:example-parent:pom:2.4.1-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ com.jayway.restassured:rest-assured-parent:2.4.1-SNAPSHOT, /var/opt/workspaces/workspace-restassured/rest-assured/pom.xml, line 130, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.jayway.restassured:rest-assured-parent:2.4.1-SNAPSHOT, /var/opt/workspaces/workspace-restassured/rest-assured/pom.xml, line 148, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.jayway.restassured:json-path:jar:2.4.1-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ com.jayway.restassured:rest-assured-parent:2.4.1-SNAPSHOT, /var/opt/workspaces/workspace-restassured/rest-assured/pom.xml, line 130, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.jayway.restassured:rest-assured-parent:2.4.1-SNAPSHOT, /var/opt/workspaces/workspace-restassured/rest-assured/pom.xml, line 148, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.jayway.restassured:rest-assured-common:jar:2.4.1-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ com.jayway.restassured:rest-assured-parent:2.4.1-SNAPSHOT, /var/opt/workspaces/workspace-restassured/rest-assured/pom.xml, line 130, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.jayway.restassured:rest-assured-parent:2.4.1-SNAPSHOT, /var/opt/workspaces/workspace-restassured/rest-assured/pom.xml, line 148, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.jayway.restassured:xml-path:jar:2.4.1-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ com.jayway.restassured:rest-assured-parent:2.4.1-SNAPSHOT, /var/opt/workspaces/workspace-restassured/rest-assured/pom.xml, line 130, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ com.jayway.restassured:rest-assured-parent:2.4.1-SNAPSHOT, /var/opt/workspaces/workspace-restassured/rest-assured/pom.xml, line 148, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.jayway.restassured:rest-assured-parent:pom:2.4.1-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ line 130, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-surefire-plugin is missing. @ line 148, column 21
+[WARNING] 
+[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+[WARNING] 
+[WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+[WARNING] 
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Build Order:
+[INFO] 
+[INFO] REST Assured Parent POM
+[INFO] REST Assured Modules
+[INFO] json-schema-validator
+[INFO] rest-assured-common
+[INFO] json-path
+[INFO] xml-path
+[INFO] REST Assured
+[INFO] spring-mock-mvc
+[INFO] REST Assured Examples
+[INFO] Scalatra Example
+[INFO] Scalatra REST service example
+[INFO] REST Assured Java integration tests
+[INFO] Spring MVC example
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building REST Assured Parent POM 2.4.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0-beta-1:enforce (enforce-maven) @ rest-assured-parent ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building REST Assured Modules 2.4.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0-beta-1:enforce (enforce-maven) @ modules ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building json-schema-validator 2.4.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0-beta-1:enforce (enforce-maven) @ json-schema-validator ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ json-schema-validator ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /var/opt/workspaces/workspace-restassured/rest-assured/modules/json-schema-validator/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ json-schema-validator ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ json-schema-validator ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ json-schema-validator ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ json-schema-validator ---
+[INFO] Surefire report directory: /var/opt/workspaces/workspace-restassured/rest-assured/modules/json-schema-validator/target/surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.jayway.restassured.module.jsv.JsonSchemaValidatorTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.371 sec
+
+Results :
+
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building rest-assured-common 2.4.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0-beta-1:enforce (enforce-maven) @ rest-assured-common ---
+[INFO] 
+[INFO] --- gmaven-plugin:1.5:generateStubs (default) @ rest-assured-common ---
+[INFO] Generated 5 Java stubs
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ rest-assured-common ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /var/opt/workspaces/workspace-restassured/rest-assured/rest-assured-common/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ rest-assured-common ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- gmaven-plugin:1.5:compile (default) @ rest-assured-common ---
+[INFO] Compiled 11 Groovy classes
+[INFO] 
+[INFO] --- gmaven-plugin:1.5:generateTestStubs (default) @ rest-assured-common ---
+[INFO] No sources found for Java stub generation
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ rest-assured-common ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /var/opt/workspaces/workspace-restassured/rest-assured/rest-assured-common/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ rest-assured-common ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- gmaven-plugin:1.5:testCompile (default) @ rest-assured-common ---
+[INFO] No sources found to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ rest-assured-common ---
+[INFO] Surefire report directory: /var/opt/workspaces/workspace-restassured/rest-assured/rest-assured-common/target/surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.jayway.restassured.internal.path.ObjectConverterTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.214 sec
+
+Results :
+
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building json-path 2.4.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0-beta-1:enforce (enforce-maven) @ json-path ---
+[INFO] 
+[INFO] --- gmaven-plugin:1.5:generateStubs (default) @ json-path ---
+[INFO] Generated 8 Java stubs
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ json-path ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /var/opt/workspaces/workspace-restassured/rest-assured/json-path/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ json-path ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- gmaven-plugin:1.5:compile (default) @ json-path ---
+[INFO] Compiled 9 Groovy classes
+[INFO] 
+[INFO] --- gmaven-plugin:1.5:generateTestStubs (default) @ json-path ---
+[INFO] No sources found for Java stub generation
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ json-path ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /var/opt/workspaces/workspace-restassured/rest-assured/json-path/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ json-path ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- gmaven-plugin:1.5:testCompile (default) @ json-path ---
+[INFO] No sources found to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ json-path ---
+[INFO] Surefire report directory: /var/opt/workspaces/workspace-restassured/rest-assured/json-path/target/surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.jayway.restassured.path.json.JsonPathObjectDeserializationTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.662 sec
+Running com.jayway.restassured.path.json.JsonPathTest
+author = Nigel Rees
+title = Sayings of the Century
+category = reference
+price = 8.95
+[
+    {
+        "phone": "3456789",
+        "alias": "name one",
+        "email": "name1@mail.com"
+    },
+    {
+        "phone": "1234567",
+        "alias": "name two",
+        "email": "name2@mail.com"
+    },
+    {
+        "phone": "2345678",
+        "alias": "name three",
+        "email": "name3@mail.com"
+    }
+]
+[
+    {
+        "phone": "3456789",
+        "alias": "name one",
+        "email": "name1@mail.com"
+    },
+    {
+        "phone": "1234567",
+        "alias": "name two",
+        "email": "name2@mail.com"
+    },
+    {
+        "phone": "2345678",
+        "alias": "name three",
+        "email": "name3@mail.com"
+    }
+]
+[{"phone":"3456789","alias":"name one","email":"name1@mail.com"},{"phone":"1234567","alias":"name two","email":"name2@mail.com"},{"phone":"2345678","alias":"name three","email":"name3@mail.com"}]
+{
+    "data": [
+        {
+            "uid": 10,
+            "name": "abc"
+        }
+    ]
+}
+Tests run: 50, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.555 sec
+Running com.jayway.restassured.path.json.JsonPathNumberTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.009 sec
+Running com.jayway.restassured.path.json.JsonPathCharsetTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.023 sec
+
+Results :
+
+Tests run: 58, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building xml-path 2.4.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0-beta-1:enforce (enforce-maven) @ xml-path ---
+[INFO] 
+[INFO] --- gmaven-plugin:1.5:generateStubs (default) @ xml-path ---
+[INFO] Generated 13 Java stubs
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ xml-path ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /var/opt/workspaces/workspace-restassured/rest-assured/xml-path/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ xml-path ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- gmaven-plugin:1.5:compile (default) @ xml-path ---
+[INFO] Compiled 20 Groovy classes
+[INFO] 
+[INFO] --- gmaven-plugin:1.5:generateTestStubs (default) @ xml-path ---
+[INFO] No sources found for Java stub generation
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ xml-path ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ xml-path ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- gmaven-plugin:1.5:testCompile (default) @ xml-path ---
+[INFO] No sources found to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ xml-path ---
+[INFO] Surefire report directory: /var/opt/workspaces/workspace-restassured/rest-assured/xml-path/target/surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.jayway.restassured.path.xml.XmlPathNamespaceTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.524 sec
+Running com.jayway.restassured.path.xml.XmlPathCharsetTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.045 sec
+Running com.jayway.restassured.path.xml.XmlPathTest
+<?xml version="1.0" encoding="UTF-8"?><some>
+  <thing id="1">ikk</thing>
+  <thing id="2">ikk2</thing>
+  <thing id="3">3</thing>
+</some>
+<?xml version="1.0" encoding="UTF-8"?><some>
+  <thing id="1">ikk</thing>
+  <thing id="2">ikk2</thing>
+  <thing id="3">3</thing>
+</some>
+<some><thing id='1'>ikk</thing><thing id='2'>ikk2</thing><thing id='3'>3</thing></some>
+Tests run: 57, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.773 sec
+Running com.jayway.restassured.path.xml.XmlPathErrorMessageTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.032 sec
+Running com.jayway.restassured.path.xml.XmlPathSubPathTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.036 sec
+Running com.jayway.restassured.path.xml.XmlPathObjectDeserializationTest
+[Fatal Error] :2:74: The markup in the document following the root element must be well-formed.
+ERROR:  'The markup in the document following the root element must be well-formed.'
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.142 sec
+
+Results :
+
+Tests run: 75, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building REST Assured 2.4.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0-beta-1:enforce (enforce-maven) @ rest-assured ---
+[INFO] 
+[INFO] --- gmaven-plugin:1.5:generateStubs (default) @ rest-assured ---
+[INFO] Generated 61 Java stubs
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ rest-assured ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /var/opt/workspaces/workspace-restassured/rest-assured/rest-assured/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ rest-assured ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- gmaven-plugin:1.5:compile (default) @ rest-assured ---
+[INFO] Compiled 150 Groovy classes
+[INFO] 
+[INFO] --- gmaven-plugin:1.5:generateTestStubs (default) @ rest-assured ---
+[INFO] Generated 8 Java stubs
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ rest-assured ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /var/opt/workspaces/workspace-restassured/rest-assured/rest-assured/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ rest-assured ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- gmaven-plugin:1.5:testCompile (default) @ rest-assured ---
+[INFO] Compiled 8 Groovy classes
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ rest-assured ---
+[INFO] Surefire report directory: /var/opt/workspaces/workspace-restassured/rest-assured/rest-assured/target/surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.jayway.restassured.builder.RequestSpecBuilderTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.325 sec
+Running com.jayway.restassured.builder.ResponseSpecBuilderTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.037 sec
+Running com.jayway.restassured.SpecificationMergerTest
+Tests run: 25, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.192 sec
+Running com.jayway.restassured.internal.http.CharsetExtractorTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.01 sec
+Running com.jayway.restassured.internal.UriValidatorTest
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.003 sec
+Running com.jayway.restassured.http.ContentTypeTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 sec
+Running com.jayway.restassured.config.HeaderConfigTest
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 sec
+Running com.jayway.restassured.config.HttpClientConfigTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 sec
+Running com.jayway.restassured.assertion.CookieMatcherTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.027 sec
+Running com.jayway.restassured.ParameterMapBuilderTest
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.051 sec
+Running com.jayway.restassured.RequestSpecificationTest
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.027 sec
+
+Results :
+
+Tests run: 65, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building spring-mock-mvc 2.4.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0-beta-1:enforce (enforce-maven) @ spring-mock-mvc ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-mock-mvc ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /var/opt/workspaces/workspace-restassured/rest-assured/modules/spring-mock-mvc/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ spring-mock-mvc ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ spring-mock-mvc ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ spring-mock-mvc ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ spring-mock-mvc ---
+[INFO] Surefire report directory: /var/opt/workspaces/workspace-restassured/rest-assured/modules/spring-mock-mvc/target/surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.jayway.restassured.module.mockmvc.MockMvcNonStaticRequestAndResponseSpecTest
+Feb 26, 2015 12:45:37 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greeting(java.lang.String)
+Feb 26, 2015 12:45:37 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greetingWithRequiredContentType(java.lang.String)
+Feb 26, 2015 12:45:37 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@45982a25
+Feb 26, 2015 12:45:37 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:37 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:37 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 2 ms
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.994 sec
+Running com.jayway.restassured.module.mockmvc.MockMvcRequestSpecificationMergingTest
+Feb 26, 2015 12:45:37 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greetingPost],methods=[POST],params=[],headers=[],consumes=[application/x-www-form-urlencoded],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.PostController.greeting(java.lang.String)
+Feb 26, 2015 12:45:37 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/stringBody],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.stringBody(java.lang.String)
+Feb 26, 2015 12:45:37 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/jsonReflect],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.jsonReflect(java.lang.String)
+Feb 26, 2015 12:45:37 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@c42ee76
+Feb 26, 2015 12:45:37 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:37 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:37 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 1 ms
+Feb 26, 2015 12:45:37 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greeting(java.lang.String)
+Feb 26, 2015 12:45:37 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greetingWithRequiredContentType(java.lang.String)
+Feb 26, 2015 12:45:37 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@5a256b1
+Feb 26, 2015 12:45:37 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:37 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:37 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:37 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greeting(java.lang.String)
+Feb 26, 2015 12:45:37 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greetingWithRequiredContentType(java.lang.String)
+Feb 26, 2015 12:45:37 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@10d6fc05
+Feb 26, 2015 12:45:37 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:37 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:37 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:37 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greeting(java.lang.String)
+Feb 26, 2015 12:45:37 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greetingWithRequiredContentType(java.lang.String)
+Feb 26, 2015 12:45:37 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@4aca3ce
+Feb 26, 2015 12:45:37 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:37 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:37 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:37 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greetingWithRequiredContentType(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@4c9fc2e7
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Tests run: 28, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.19 sec
+Running com.jayway.restassured.module.mockmvc.HeaderTest
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/header],methods=[GET],params=[],headers=[],consumes=[],produces=[application/json],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.HeaderController.header(java.lang.String,java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@13daeecb
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.084 sec
+Running com.jayway.restassured.module.mockmvc.CookieTest
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/cookie],methods=[GET],params=[],headers=[],consumes=[],produces=[application/json],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.CookieController.cookie(java.lang.String,java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@581e495d
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.094 sec
+Running com.jayway.restassured.module.mockmvc.GreetingControllerRestAssuredTest
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greetingWithRequiredContentType(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@38080131
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+200
+Content-Type: application/json;charset=UTF-8
+
+{
+    "id": 1,
+    "content": "Hello, Johan!"
+}
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greetingWithRequiredContentType(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@50700ae1
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greetingWithRequiredContentType(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@1974faf5
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greetingWithRequiredContentType(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@cc2bcd9
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.131 sec
+Running com.jayway.restassured.module.mockmvc.MockMvcStaticRequestAndResponseSpecTest
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greetingWithRequiredContentType(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@b9b6d97
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 1 ms
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greetingWithRequiredContentType(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@30f7d212
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greetingWithRequiredContentType(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@47c22350
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.078 sec
+Running com.jayway.restassured.module.mockmvc.MockHttpServletRequestBuilderInterceptorTest
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greetingWithRequiredContentType(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@1457e272
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.024 sec
+Running com.jayway.restassured.module.mockmvc.GreetingControllerVanillaMockMvcTest
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greetingPost],methods=[POST],params=[],headers=[],consumes=[application/x-www-form-urlencoded],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.PostController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/stringBody],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.stringBody(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/jsonReflect],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.jsonReflect(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@6948ed52
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 1 ms
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greetingWithRequiredContentType(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@6af84412
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.045 sec
+Running com.jayway.restassured.module.mockmvc.MockMvcResponseAwareMatcherTest
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/responseAware],methods=[GET],params=[],headers=[],consumes=[],produces=[application/json],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.ResponseAwareMatcherController.parserWithUnknownContentType()
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@1c1e9a0
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/responseAware],methods=[GET],params=[],headers=[],consumes=[],produces=[application/json],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.ResponseAwareMatcherController.parserWithUnknownContentType()
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@5ce1b4d5
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.076 sec
+Running com.jayway.restassured.module.mockmvc.LoggingIfValidationFailsTest
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greetingPost],methods=[POST],params=[],headers=[],consumes=[application/x-www-form-urlencoded],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.PostController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/stringBody],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.stringBody(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/jsonReflect],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.jsonReflect(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@6acce1af
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greetingPost],methods=[POST],params=[],headers=[],consumes=[application/x-www-form-urlencoded],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.PostController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/stringBody],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.stringBody(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/jsonReflect],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.jsonReflect(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@13bfbb2f
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greetingPost],methods=[POST],params=[],headers=[],consumes=[application/x-www-form-urlencoded],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.PostController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/stringBody],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.stringBody(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/jsonReflect],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.jsonReflect(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@43d95624
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greetingPost],methods=[POST],params=[],headers=[],consumes=[application/x-www-form-urlencoded],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.PostController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/stringBody],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.stringBody(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/jsonReflect],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.jsonReflect(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@7358a61e
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greetingPost],methods=[POST],params=[],headers=[],consumes=[application/x-www-form-urlencoded],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.PostController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/stringBody],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.stringBody(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/jsonReflect],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.jsonReflect(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@1bb8fc63
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.135 sec
+Running com.jayway.restassured.module.mockmvc.BasePathTest
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/my-path/greetingPath],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.BasePathController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.BasePathController.greeting2(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@5af0d263
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/my-path/greetingPath],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.BasePathController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.BasePathController.greeting2(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@103bdaa8
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/my-path/greetingPath],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.BasePathController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.BasePathController.greeting2(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@22a0c2ca
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/my-path/greetingPath],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.BasePathController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.BasePathController.greeting2(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@6ef93d8a
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/my-path/greetingPath],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.BasePathController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.BasePathController.greeting2(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@672f10d6
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.113 sec
+Running com.jayway.restassured.module.mockmvc.RequestLoggingTest
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/my-path/greetingPath],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.BasePathController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.BasePathController.greeting2(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@4c68421f
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greetingPost],methods=[POST],params=[],headers=[],consumes=[application/x-www-form-urlencoded],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.PostController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/stringBody],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.stringBody(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/jsonReflect],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.jsonReflect(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@386b3c88
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greetingPost],methods=[POST],params=[],headers=[],consumes=[application/x-www-form-urlencoded],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.PostController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/stringBody],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.stringBody(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/jsonReflect],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.jsonReflect(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@61c047e7
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greetingPost],methods=[POST],params=[],headers=[],consumes=[application/x-www-form-urlencoded],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.PostController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/stringBody],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.stringBody(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/jsonReflect],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.jsonReflect(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@dd5b524
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greetingWithRequiredContentType(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@47c5eafc
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greetingPost],methods=[POST],params=[],headers=[],consumes=[application/x-www-form-urlencoded],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.PostController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/stringBody],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.stringBody(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/jsonReflect],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.jsonReflect(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@7333c544
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greetingPost],methods=[POST],params=[],headers=[],consumes=[application/x-www-form-urlencoded],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.PostController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/stringBody],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.stringBody(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/jsonReflect],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.jsonReflect(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@ed57bbe
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.161 sec
+Running com.jayway.restassured.module.mockmvc.PutTest
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greetingPut],methods=[PUT],params=[],headers=[],consumes=[application/x-www-form-urlencoded],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.PutController.greeting(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/stringBody],methods=[PUT],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PutController.stringBody(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/jsonReflect],methods=[PUT],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PutController.jsonReflect(java.lang.String)
+Feb 26, 2015 12:45:38 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@47eb2244
+Feb 26, 2015 12:45:38 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:38 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.079 sec
+Running com.jayway.restassured.module.mockmvc.SecuredControllerTest
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/springSecurityGreeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.SecuredController.greeting(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/principalGreeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.SecuredController.greeting(java.lang.String,java.security.Principal)
+Feb 26, 2015 12:45:39 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@352096f2
+Feb 26, 2015 12:45:39 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/springSecurityGreeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.SecuredController.greeting(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/principalGreeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.SecuredController.greeting(java.lang.String,java.security.Principal)
+Feb 26, 2015 12:45:39 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@7a51858e
+Feb 26, 2015 12:45:39 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 1 ms
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/springSecurityGreeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.SecuredController.greeting(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/principalGreeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.SecuredController.greeting(java.lang.String,java.security.Principal)
+Feb 26, 2015 12:45:39 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@56337936
+Feb 26, 2015 12:45:39 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/springSecurityGreeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.SecuredController.greeting(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/principalGreeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.SecuredController.greeting(java.lang.String,java.security.Principal)
+Feb 26, 2015 12:45:39 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@6eeb63cc
+Feb 26, 2015 12:45:39 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 1 ms
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/springSecurityGreeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.SecuredController.greeting(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/principalGreeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.SecuredController.greeting(java.lang.String,java.security.Principal)
+Feb 26, 2015 12:45:39 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@4b06814e
+Feb 26, 2015 12:45:39 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/springSecurityGreeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.SecuredController.greeting(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/principalGreeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.SecuredController.greeting(java.lang.String,java.security.Principal)
+Feb 26, 2015 12:45:39 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@274979df
+Feb 26, 2015 12:45:39 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/springSecurityGreeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.SecuredController.greeting(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/principalGreeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.SecuredController.greeting(java.lang.String,java.security.Principal)
+Feb 26, 2015 12:45:39 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@6368bdf4
+Feb 26, 2015 12:45:39 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/springSecurityGreeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.SecuredController.greeting(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/principalGreeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.SecuredController.greeting(java.lang.String,java.security.Principal)
+Feb 26, 2015 12:45:39 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@16e20f40
+Feb 26, 2015 12:45:39 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/springSecurityGreeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.SecuredController.greeting(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/principalGreeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.SecuredController.greeting(java.lang.String,java.security.Principal)
+Feb 26, 2015 12:45:39 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@5f6af31
+Feb 26, 2015 12:45:39 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 1 ms
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/springSecurityGreeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.SecuredController.greeting(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/principalGreeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.SecuredController.greeting(java.lang.String,java.security.Principal)
+Feb 26, 2015 12:45:39 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@655460e0
+Feb 26, 2015 12:45:39 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/springSecurityGreeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.SecuredController.greeting(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/principalGreeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.SecuredController.greeting(java.lang.String,java.security.Principal)
+Feb 26, 2015 12:45:39 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@55df60a
+Feb 26, 2015 12:45:39 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.195 sec
+Running com.jayway.restassured.module.mockmvc.QueryParamTest
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greeting(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greetingWithRequiredContentType(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@53287296
+Feb 26, 2015 12:45:39 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.024 sec
+Running com.jayway.restassured.module.mockmvc.ResultHandlerTest
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/header],methods=[GET],params=[],headers=[],consumes=[],produces=[application/json],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.HeaderController.header(java.lang.String,java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@443c6e5b
+Feb 26, 2015 12:45:39 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+
+MockHttpServletRequest:
+         HTTP Method = GET
+         Request URI = /header
+          Parameters = {}
+             Headers = {headerName=[John Doe]}
+
+             Handler:
+                Type = com.jayway.restassured.module.mockmvc.http.HeaderController
+              Method = public java.lang.String com.jayway.restassured.module.mockmvc.http.HeaderController.header(java.lang.String,java.lang.String)
+
+               Async:
+   Was async started = false
+        Async result = null
+
+  Resolved Exception:
+                Type = null
+
+        ModelAndView:
+           View name = null
+                View = null
+               Model = null
+
+            FlashMap:
+
+MockHttpServletResponse:
+              Status = 200
+       Error message = null
+             Headers = {Content-Type=[application/json], Content-Length=[50]}
+        Content type = application/json
+                Body = {"headerName" : "John Doe", "user-agent" : "null"}
+       Forwarded URL = null
+      Redirected URL = null
+             Cookies = []
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.047 sec
+Running com.jayway.restassured.module.mockmvc.GetTest
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greeting(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greetingWithRequiredContentType(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@760b454d
+Feb 26, 2015 12:45:39 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.024 sec
+Running com.jayway.restassured.module.mockmvc.ParserTest
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/parserWithUnknownContentType],methods=[GET],params=[],headers=[],consumes=[],produces=[some/thing],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.ParserController.parserWithUnknownContentType(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@32bde0d6
+Feb 26, 2015 12:45:39 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/parserWithUnknownContentType],methods=[GET],params=[],headers=[],consumes=[],produces=[some/thing],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.ParserController.parserWithUnknownContentType(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@73562e6a
+Feb 26, 2015 12:45:39 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.038 sec
+Running com.jayway.restassured.module.mockmvc.ExtractTest
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greeting(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greetingWithRequiredContentType(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@e2c0b5
+Feb 26, 2015 12:45:39 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greeting(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greetingWithRequiredContentType(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@7c31c1ef
+Feb 26, 2015 12:45:39 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greeting(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greetingWithRequiredContentType(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@3bdf5f74
+Feb 26, 2015 12:45:39 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.061 sec
+Running com.jayway.restassured.module.mockmvc.PostTest
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greetingPost],methods=[POST],params=[],headers=[],consumes=[application/x-www-form-urlencoded],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.PostController.greeting(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/stringBody],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.stringBody(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/jsonReflect],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.jsonReflect(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@71513654
+Feb 26, 2015 12:45:39 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.041 sec
+Running com.jayway.restassured.module.mockmvc.ResponseLoggingTest
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greetingPost],methods=[POST],params=[],headers=[],consumes=[application/x-www-form-urlencoded],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.PostController.greeting(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/stringBody],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.stringBody(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/jsonReflect],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.jsonReflect(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@786851a9
+Feb 26, 2015 12:45:39 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greetingPost],methods=[POST],params=[],headers=[],consumes=[application/x-www-form-urlencoded],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.PostController.greeting(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/stringBody],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.stringBody(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/jsonReflect],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.PostController.jsonReflect(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@28752e82
+Feb 26, 2015 12:45:39 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.048 sec
+Running com.jayway.restassured.module.mockmvc.ResultMatcherTest
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/header],methods=[GET],params=[],headers=[],consumes=[],produces=[application/json],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.HeaderController.header(java.lang.String,java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@6ff37c33
+Feb 26, 2015 12:45:39 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greeting(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greetingWithRequiredContentType(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@39e2cdaa
+Feb 26, 2015 12:45:39 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.034 sec
+Running com.jayway.restassured.module.mockmvc.ContentTypeTest
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greeting(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greetingWithRequiredContentType(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@14880a00
+Feb 26, 2015 12:45:39 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greeting(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greetingWithRequiredContentType(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@2e352f85
+Feb 26, 2015 12:45:39 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 1 ms
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greeting(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/greeting],methods=[POST],params=[],headers=[],consumes=[application/json],produces=[application/json],custom=[]}" onto public com.jayway.restassured.module.mockmvc.http.Greeting com.jayway.restassured.module.mockmvc.http.GreetingController.greetingWithRequiredContentType(java.lang.String)
+Feb 26, 2015 12:45:39 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@632e7cf3
+Feb 26, 2015 12:45:39 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.038 sec
+Running com.jayway.restassured.module.mockmvc.AttributeTest
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder$StaticRequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/attribute],methods=[GET],params=[],headers=[],consumes=[],produces=[application/json],custom=[]}" onto public java.lang.String com.jayway.restassured.module.mockmvc.http.AttributeController.attribute(javax.servlet.http.HttpServletRequest)
+Feb 26, 2015 12:45:39 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.test.web.servlet.setup.StubWebApplicationContext@1ff1b363
+Feb 26, 2015 12:45:39 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:39 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 0 ms
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.058 sec
+
+Results :
+
+Tests run: 105, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building REST Assured Examples 2.4.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0-beta-1:enforce (enforce-maven) @ example-parent ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Scalatra Example 2.4.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0-beta-1:enforce (enforce-maven) @ scalatra-example ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ scalatra-example ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 3 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ scalatra-example ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-scala-plugin:2.15.2:compile (default) @ scalatra-example ---
+[INFO] Checking for multiple versions of scala
+[WARNING]  Expected all dependencies to require Scala version: 2.10.2
+[WARNING]  com.jayway.restassured.examples:scalatra-example:2.4.1-SNAPSHOT requires scala version: 2.10.2
+[WARNING]  org.scalatra:scalatra_2.10:2.3.0 requires scala version: 2.10.4
+[WARNING] Multiple versions of scala libraries detected!
+[INFO] includes = [**/*.scala,**/*.java,]
+[INFO] excludes = []
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ scalatra-example ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /var/opt/workspaces/workspace-restassured/rest-assured/examples/scalatra-example/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ scalatra-example ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-scala-plugin:2.15.2:testCompile (default) @ scalatra-example ---
+[INFO] Checking for multiple versions of scala
+[WARNING]  Expected all dependencies to require Scala version: 2.10.2
+[WARNING]  com.jayway.restassured.examples:scalatra-example:2.4.1-SNAPSHOT requires scala version: 2.10.2
+[WARNING]  org.scalatra:scalatra_2.10:2.3.0 requires scala version: 2.10.4
+[WARNING] Multiple versions of scala libraries detected!
+[INFO] includes = [**/*.scala,**/*.java,]
+[INFO] excludes = []
+[WARNING] No source files found.
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ scalatra-example ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Scalatra REST service example 2.4.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0-beta-1:enforce (enforce-maven) @ scalatra-webapp ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ scalatra-webapp ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /var/opt/workspaces/workspace-restassured/rest-assured/examples/scalatra-webapp/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ scalatra-webapp ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ scalatra-webapp ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /var/opt/workspaces/workspace-restassured/rest-assured/examples/scalatra-webapp/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ scalatra-webapp ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ scalatra-webapp ---
+[INFO] No tests to run.
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building REST Assured Java integration tests 2.4.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0-beta-1:enforce (enforce-maven) @ rest-assured-itest-java ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ rest-assured-itest-java ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /var/opt/workspaces/workspace-restassured/rest-assured/examples/rest-assured-itest-java/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ rest-assured-itest-java ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ rest-assured-itest-java ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 15 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ rest-assured-itest-java ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ rest-assured-itest-java ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Spring MVC example 2.4.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-enforcer-plugin:1.0-beta-1:enforce (enforce-maven) @ spring-mvc-webapp ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ spring-mvc-webapp ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /var/opt/workspaces/workspace-restassured/rest-assured/examples/spring-mvc-webapp/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ spring-mvc-webapp ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ spring-mvc-webapp ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /var/opt/workspaces/workspace-restassured/rest-assured/examples/spring-mvc-webapp/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ spring-mvc-webapp ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ spring-mvc-webapp ---
+[INFO] Surefire report directory: /var/opt/workspaces/workspace-restassured/rest-assured/examples/spring-mvc-webapp/target/surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.jayway.restassured.examples.springmvc.controller.FileUploadUsingStandardRestAssuredTest
+2015-02-26 00:45:40.700:INFO:oejs.Server:main: jetty-9.1.0.v20131115
+2015-02-26 00:45:40.785:INFO:oejw.StandardDescriptorProcessor:main: NO JSP Support for /, did not find org.apache.jasper.servlet.JspServlet
+2015-02-26 00:45:40.813:INFO:/:main: Spring WebApplicationInitializers detected on classpath: [com.jayway.restassured.examples.springmvc.config.WebApp@770ce6fc]
+2015-02-26 00:45:40.910:INFO:/:main: Initializing Spring FrameworkServlet 'dispatcher'
+Feb 26, 2015 12:45:40 AM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'dispatcher': initialization started
+Feb 26, 2015 12:45:40 AM org.springframework.web.context.support.AnnotationConfigWebApplicationContext prepareRefresh
+INFO: Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Feb 26 00:45:40 CET 2015]; root of context hierarchy
+Feb 26, 2015 12:45:40 AM org.springframework.web.context.support.AnnotationConfigWebApplicationContext loadBeanDefinitions
+INFO: Registering annotated classes: [class com.jayway.restassured.examples.springmvc.config.MainConfiguration]
+Feb 26, 2015 12:45:41 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/multiFileUpload],methods=[POST],params=[],headers=[],consumes=[multipart/form-data],produces=[application/json],custom=[]}" onto public java.util.List<com.jayway.restassured.examples.springmvc.controller.FileDescription> com.jayway.restassured.examples.springmvc.controller.FileUploadController.multiFileUpload(org.springframework.web.multipart.MultipartFile,org.springframework.web.multipart.MultipartFile) throws java.io.IOException
+Feb 26, 2015 12:45:41 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/fileUpload2],methods=[POST],params=[],headers=[],consumes=[multipart/form-data],produces=[application/json],custom=[]}" onto public java.lang.String com.jayway.restassured.examples.springmvc.controller.FileUploadController.fileUpload2(org.springframework.web.multipart.MultipartFile)
+Feb 26, 2015 12:45:41 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/fileUploadWithParam],methods=[POST],params=[],headers=[],consumes=[multipart/form-data],produces=[application/json],custom=[]}" onto public com.jayway.restassured.examples.springmvc.controller.FileWithParam com.jayway.restassured.examples.springmvc.controller.FileUploadController.fileUploadWithParam(org.springframework.web.multipart.MultipartFile,java.lang.String) throws java.io.IOException
+Feb 26, 2015 12:45:41 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/fileUpload],methods=[POST],params=[],headers=[],consumes=[multipart/form-data],produces=[application/json],custom=[]}" onto public java.lang.String com.jayway.restassured.examples.springmvc.controller.FileUploadController.fileUpload(org.springframework.web.multipart.MultipartFile)
+Feb 26, 2015 12:45:41 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Feb 26 00:45:40 CET 2015]; root of context hierarchy
+Feb 26, 2015 12:45:41 AM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'dispatcher': initialization completed in 551 ms
+2015-02-26 00:45:41.463:INFO:oejsh.ContextHandler:main: Started o.e.j.w.WebAppContext@3cd786ca{/,null,AVAILABLE}
+2015-02-26 00:45:41.471:INFO:oejs.ServerConnector:main: Started ServerConnector@2c6b865{HTTP/1.1}{0.0.0.0:8080}
+2015-02-26 00:45:41.471:INFO:oejs.ServerConnector:main: Started ServerConnector@2d9e979b{HTTP/1.1}{0.0.0.0:43115}
+2015-02-26 00:45:42.385:INFO:oejs.ServerConnector:main: Stopped ServerConnector@2c6b865{HTTP/1.1}{0.0.0.0:8080}
+2015-02-26 00:45:42.386:INFO:oejs.ServerConnector:main: Stopped ServerConnector@2d9e979b{HTTP/1.1}{0.0.0.0:0}
+2015-02-26 00:45:42.386:INFO:/:main: Destroying Spring FrameworkServlet 'dispatcher'
+Feb 26, 2015 12:45:42 AM org.springframework.web.context.support.AnnotationConfigWebApplicationContext doClose
+INFO: Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Feb 26 00:45:40 CET 2015]; root of context hierarchy
+2015-02-26 00:45:42.389:INFO:oejsh.ContextHandler:main: Stopped o.e.j.w.WebAppContext@3cd786ca{/,null,UNAVAILABLE}
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.808 sec
+Running com.jayway.restassured.examples.springmvc.controller.FileUploadTest
+Feb 26, 2015 12:45:42 AM org.springframework.test.context.web.WebTestContextBootstrapper getDefaultTestExecutionListenerClassNames
+INFO: Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+Feb 26, 2015 12:45:42 AM org.springframework.test.context.web.WebTestContextBootstrapper instantiateListeners
+INFO: Could not instantiate TestExecutionListener [org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [org/springframework/transaction/interceptor/TransactionAttribute]
+Feb 26, 2015 12:45:42 AM org.springframework.test.context.web.WebTestContextBootstrapper instantiateListeners
+INFO: Could not instantiate TestExecutionListener [org.springframework.test.context.transaction.TransactionalTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [org/springframework/transaction/TransactionDefinition]
+Feb 26, 2015 12:45:42 AM org.springframework.test.context.web.WebTestContextBootstrapper getTestExecutionListeners
+INFO: Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@fec6b04, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@6a65dbc6, org.springframework.test.context.support.DirtiesContextTestExecutionListener@453fdabc]
+Feb 26, 2015 12:45:42 AM org.springframework.web.context.support.GenericWebApplicationContext prepareRefresh
+INFO: Refreshing org.springframework.web.context.support.GenericWebApplicationContext@71312a49: startup date [Thu Feb 26 00:45:42 CET 2015]; root of context hierarchy
+Feb 26, 2015 12:45:42 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/multiFileUpload],methods=[POST],params=[],headers=[],consumes=[multipart/form-data],produces=[application/json],custom=[]}" onto public java.util.List<com.jayway.restassured.examples.springmvc.controller.FileDescription> com.jayway.restassured.examples.springmvc.controller.FileUploadController.multiFileUpload(org.springframework.web.multipart.MultipartFile,org.springframework.web.multipart.MultipartFile) throws java.io.IOException
+Feb 26, 2015 12:45:42 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/fileUpload2],methods=[POST],params=[],headers=[],consumes=[multipart/form-data],produces=[application/json],custom=[]}" onto public java.lang.String com.jayway.restassured.examples.springmvc.controller.FileUploadController.fileUpload2(org.springframework.web.multipart.MultipartFile)
+Feb 26, 2015 12:45:42 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/fileUploadWithParam],methods=[POST],params=[],headers=[],consumes=[multipart/form-data],produces=[application/json],custom=[]}" onto public com.jayway.restassured.examples.springmvc.controller.FileWithParam com.jayway.restassured.examples.springmvc.controller.FileUploadController.fileUploadWithParam(org.springframework.web.multipart.MultipartFile,java.lang.String) throws java.io.IOException
+Feb 26, 2015 12:45:42 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/fileUpload],methods=[POST],params=[],headers=[],consumes=[multipart/form-data],produces=[application/json],custom=[]}" onto public java.lang.String com.jayway.restassured.examples.springmvc.controller.FileUploadController.fileUpload(org.springframework.web.multipart.MultipartFile)
+Feb 26, 2015 12:45:42 AM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter initControllerAdviceCache
+INFO: Looking for @ControllerAdvice: org.springframework.web.context.support.GenericWebApplicationContext@71312a49: startup date [Thu Feb 26 00:45:42 CET 2015]; root of context hierarchy
+Feb 26, 2015 12:45:42 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:42 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:42 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 3 ms
+Feb 26, 2015 12:45:42 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:42 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:42 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 1 ms
+Feb 26, 2015 12:45:42 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:42 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:42 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 2 ms
+Feb 26, 2015 12:45:42 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:42 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:42 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 1 ms
+Feb 26, 2015 12:45:42 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:42 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:42 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 2 ms
+Feb 26, 2015 12:45:42 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:42 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:42 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 1 ms
+Feb 26, 2015 12:45:43 AM org.springframework.mock.web.MockServletContext log
+INFO: Initializing Spring FrameworkServlet ''
+Feb 26, 2015 12:45:43 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization started
+Feb 26, 2015 12:45:43 AM org.springframework.test.web.servlet.TestDispatcherServlet initServletBean
+INFO: FrameworkServlet '': initialization completed in 2 ms
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.702 sec
+
+Results :
+
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary:
+[INFO] 
+[INFO] REST Assured Parent POM ............................ SUCCESS [  0.211 s]
+[INFO] REST Assured Modules ............................... SUCCESS [  0.003 s]
+[INFO] json-schema-validator .............................. SUCCESS [  0.968 s]
+[INFO] rest-assured-common ................................ SUCCESS [  1.132 s]
+[INFO] json-path .......................................... SUCCESS [  1.876 s]
+[INFO] xml-path ........................................... SUCCESS [  2.155 s]
+[INFO] REST Assured ....................................... SUCCESS [  4.720 s]
+[INFO] spring-mock-mvc .................................... SUCCESS [  3.465 s]
+[INFO] REST Assured Examples .............................. SUCCESS [  0.002 s]
+[INFO] Scalatra Example ................................... SUCCESS [  0.185 s]
+[INFO] Scalatra REST service example ...................... SUCCESS [  0.012 s]
+[INFO] REST Assured Java integration tests ................ SUCCESS [  0.059 s]
+[INFO] Spring MVC example ................................. SUCCESS [  3.081 s]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 18.072 s
+[INFO] Finished at: 2015-02-26T00:45:43+01:00
+[INFO] Final Memory: 47M/906M
+[INFO] ------------------------------------------------------------------------
