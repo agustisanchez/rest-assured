@@ -1303,10 +1303,6 @@ class RequestSpecificationImpl implements FilterableRequestSpecification, Groovy
 
   private def defineRequestContentType(Method method) {
     def contentType = headers.getValue(CONTENT_TYPE)
-
-    
-
-
     if (contentType == null) {
       if (multiParts.size() > 0) {
         contentType = MULTIPART_FORM_DATA
