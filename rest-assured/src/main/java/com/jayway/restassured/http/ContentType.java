@@ -84,7 +84,11 @@ public enum ContentType {
     /**
      * <code>application/octet-stream</code>
      */
-    BINARY("application/octet-stream");
+    BINARY("application/octet-stream"),
+    /**
+    * No ContentType header will be added to the request.
+    */
+    NO_CONTENT_TYPE();
 
     private static final String PLUS_XML = "+xml";
     private static final String PLUS_JSON = "+json";
